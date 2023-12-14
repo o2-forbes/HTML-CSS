@@ -76,3 +76,12 @@ a {
     border: 1px solid white;
     background-color: darkslateblue;
 }
+
+.caption {
+    font-size: 15;
+    font-style: italic;
+}
+
+.container {
+    display: flex;
+}
