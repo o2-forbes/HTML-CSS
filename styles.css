@@ -36,10 +36,6 @@ h2{
     text-align: left;
 }
 
-.fave{
-    color: orangered;
-}
-
 ul {
     list-style-type: square;
 }
@@ -52,4 +48,8 @@ li{
     color: white;
     font-size: 20px;
     font-weight: bold;
+}
+
+.fave{
+    color: orangered;
 }
